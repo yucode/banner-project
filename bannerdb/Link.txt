@@ -1,1 +1,3 @@
 http://sql11.hostinger.com.ua/phpmyadmin/index.php?db=u744243076_banad
+http://phpcode.besaba.com/bannersite/
+http://phpcode.besaba.com/banneradmin/
